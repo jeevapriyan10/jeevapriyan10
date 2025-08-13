@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevapriyan10&label=Profile%20views&color=0e75b6&style=flat" alt="jeevapriyan10" /> </p>
 
-### 🎯 About Me:
+### About Me:
 
 - 🔭 Currently exploring **AI, ML & Blockchain**
 - 🌱 Learning and growing in the tech world
@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
 </p>
 
-### 🎮 When I'm Not Coding:
+### When I'm Not Coding:
 ```python
 hobbies = {
     "⚽": "Football enthusiast",
@@ -36,7 +36,7 @@ hobbies = {
 }
 ```
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevapriyan10&show_icons=true&theme=tokyonight" alt="jeevapriyan10's GitHub stats" />
@@ -46,7 +46,7 @@ hobbies = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevapriyan10&theme=tokyonight" alt="jeevapriyan10's streak" />
 </p>
 
-### 🌐 Connect with me:
+### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/jeevapriyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevapriyan11" height="30" width="40" /></a>
