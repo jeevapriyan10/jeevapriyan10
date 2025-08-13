@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=3B91F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Jeevapriyan!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate developer exploring the realms of code 🚀</h3>
+<h3 align="center">A passionate developer exploring the realms of code </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevapriyan10&label=Profile%20views&color=0e75b6&style=flat" alt="jeevapriyan10" /> </p>
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about **Python, JavaScript, Blockchain**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jeevapriyan11/)
 
-### 🛠️ Languages and Tools:
+### 🛠Languages and Tools:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
