@@ -1,0 +1,51 @@
+name: Update Uptime
+
+on:
+  schedule:
+    - cron: '0 0 19 * *'   # runs on the 19th of every month
+  workflow_dispatch:
+
+jobs:
+  update-uptime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calculate and update uptime
+        run: |
+          python3 - <<'EOF'
+          from datetime import date
+          import re
+
+          birth = date(2007, 1, 19)
+          today = date.today()
+
+          years = today.year - birth.year
+          months = today.month - birth.month
+          if months < 0:
+              years -= 1
+              months += 12
+
+          uptime = f"{years} years, {months} months"
+          print(f"Uptime: {uptime}")
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'Uptime: \.+ \d+ years, \d+ months',
+              f'Uptime: ................. {uptime}',
+              content
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update uptime"
+          git push
