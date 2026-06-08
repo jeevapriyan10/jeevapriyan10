@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/env python3
 
 from datetime import date
@@ -213,4 +213,3 @@ svg = (
 OUTPUT_PATH.write_text(svg, encoding="utf-8")
 
 print(f"Generated {OUTPUT_PATH}")
-```
