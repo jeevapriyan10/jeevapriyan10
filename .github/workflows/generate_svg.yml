@@ -2,23 +2,22 @@ name: Generate Profile SVG
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
-    - cron: '0 0 * * *'
-  # Also runs on every push to main (so you can test it instantly)
+    - cron: '0 0 * * *'      # every day at midnight UTC
   push:
-    branches: [main]
-  # Allows manual trigger from the Actions tab
-  workflow_dispatch:
+    branches: [main]          # also runs on every push to main
+  workflow_dispatch:           # manual trigger from Actions tab
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # needed to commit the SVG back
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # full history so rebase has no conflicts
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,8 +37,7 @@ jobs:
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dark_mode.svg
-          git diff --staged --quiet && echo "No changes" && exit 0
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
           git commit -m "chore: regenerate profile SVG"
-          git fetch origin main
-          git rebase origin/main
+          git pull --rebase origin main
           git push
