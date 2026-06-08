@@ -35,15 +35,28 @@ jeevapriyan@dev: ~/my_readme (main ⚡)$ neofetch --personal
 </tr>
 <tr>
 <td valign="top" width="60%">
-  
-```
+<img src="personal_mode.svg" width="100%"/>
+</td>
+<td valign="middle" width="40%" align="center">
+
+<!-- 
+  Replace the src below with any anime GIF/image URL you like.
+  Good sources: giphy.com, tenor.com, imgur.com
+  Recommended size: width="320" looks best on GitHub
+-->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif" height="100%">
+</td>
+</tr>
+</table>
+
+<!--
 My Profile/ver. 1.0.0: "Still looking for the One Piece."
 ─────────────────────────────────────────────────────────────────────
 Name:              JEEVA PRIYAN R ───────────────────────────────────
 Pronouns:          He/Him ♂ ─────────────────────────────────────────
 WhoAmI:            Developer </> Anime ☯︎ & Sports ⚽︎ & Cinephile 📽 ─
 Status:            Finding the One Piece ☠︎︎ ──────────────────────────
-Uptime:            19 years, 5 months, 20 days ⏱ ────────────────────
+Uptime:            19 years old ⏱ ───────────────────────────────────
 Location:          Chennai, India 🇮🇳 ⟟ ───────────────────────────────
 ──────────────────────────────────────────────────────────────────────
 Hobbies.Software:  Competitive Programming · Editing · Anime  · Gaming
@@ -59,16 +72,4 @@ Fav.Equation:      Murphy's Law - "Whatever can happen, will happen."
 Me.Zodiac          Capcricorn ♑︎ ─────────────────────────────────────
 Me.Height          5'7 ───────────────────────────────────────────────
 Me.Idol            Lionel Messi && Virat Kholi ───────────────────────
-```
-</td>
-<td valign="middle" width="40%" align="center">
-
-<!-- 
-  Replace the src below with any anime GIF/image URL you like.
-  Good sources: giphy.com, tenor.com, imgur.com
-  Recommended size: width="320" looks best on GitHub
 -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif">
-</td>
-</tr>
-</table>
