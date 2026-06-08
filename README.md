@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-### ✦ About me ✦
+### ✦ About me - Technical ✦
 
 </div>
 <div align="center">
@@ -15,53 +15,60 @@
 </div>
 <div align="center">
 
-### ✦ About me ✦
+---
+
+<div align="center">
+
+### ✦ About me - Physical ✦
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding:0">
 
-```bash
-jeevapriyan@dev: ~/my_readme (main ⚡)$ neofetch
+```
+jeevapriyan@dev: ~/my_readme (main ⚡)$ neofetch --personal
 ```
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="55%">
-
+<td valign="top" width="60%">
+  
 ```
-My Profile/ver. 1.0.0: 
-------------------------------------------------
-Username:        jeevapriyan10
-WhoAmI:          Programmer. Anime Lover. Sports Enthusiast.
-Status:          Turning coffee into commits ☕
-OS:              Windows 11 🪟 && Android 16 
-Shell:           PowerShell / Bash
-Editor:          VS Code 💻 && Antigravity && Notepad
-Location:        Chennai, India 🇮🇳 📍
-
-Fav.Anime(1):    One Piece 👒⚔🏴‍☠️🌊
-Fav.Anime(2):    Oregairu (My Teen Romantic Comedy SNAFU) 📕+❤️
-Fav.Characters:  Sanji ৡ && Zoro ⚔︎ && Shanks ☠
-                 && Hachiman Hikigaya 🎭 && Levi ⚡
-Fav.Quote:       "I am IronMan" — Tony Stark 
-Fav.Song:        Love Me — JMSN 🎵🌙
-Fav.Equation:    Murphy's Law: If it can go wrong, it will. 🔥
-
-Hobbies:         Competitive Programming ⌨️ · Football ⚽
-                 · Running 🏃 · Editing 🎬 · Gaming 🎮
-Pronouns:        He/Him
-Zodiac:          Capcricorn ♑︎
+My Profile/ver. 1.0.0: "Still looking for the One Piece."
+─────────────────────────────────────────────────────────────────────
+Name:              JEEVA PRIYAN R ───────────────────────────────────
+Pronouns:          He/Him ♂ ─────────────────────────────────────────
+WhoAmI:            Developer </> Anime ☯︎ & Sports ⚽︎ & Cinephile 📽 ─
+Status:            Finding the One Piece ☠︎︎ ──────────────────────────
+Uptime:            19 years, 5 months, 20 days ⏱ ────────────────────
+Location:          Chennai, India 🇮🇳 ⟟ ───────────────────────────────
+──────────────────────────────────────────────────────────────────────
+Hobbies.Software:  Competitive Programming · Editing · Anime  · Gaming
+Hobbies.Hardware:  Football  · Running ───────────────────────────────
+──────────────────────────────────────────────────────────────────────
+Fav.Anime(1):      One Piece ☠︎︎ ──────────────────────────────────────
+Fav.Anime(2):      Oregairu 🂡 ────────────────────────────────────────
+Fav.Personalities: Sanji ☠︎︎ && Spiderman 🕷 ──────────────────────────
+                   && Shanks ☠︎︎ && Hachiman Hikigaya 🂡 ───────────────
+Fav.Song:          Love Me — JMSN ❤︎ ─────────────────────────────────
+Fav.Equation:      Murphy's Law - "Whatever can happen, will happen."
+──────────────────────────────────────────────────────────────────────
+Me.Zodiac          Capcricorn ♑︎ ─────────────────────────────────────
+Me.Height          5'7 ───────────────────────────────────────────────
+Me.Idol            Lionel Messi && Virat Kholi ───────────────────────
 ```
-
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="middle" width="40%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnB3MzIxaDRteGR3cHdpbzBubGNlaWdlejU3ZGx6OGwzZzg4cmR6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mvJFUbAcWdIBy/giphy.gif" width="320"/>
-
+<!-- 
+  Replace the src below with any anime GIF/image URL you like.
+  Good sources: giphy.com, tenor.com, imgur.com
+  Recommended size: width="320" looks best on GitHub
+-->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif">
 </td>
 </tr>
 </table>
