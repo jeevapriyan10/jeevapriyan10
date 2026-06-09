@@ -70,7 +70,10 @@ Me.Idol            Lionel Messi && Virat Kholi ───────────
 <div align="center">
 
 ### ✦ My Stats ✦
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM2MjRxdjJubHVtM3docGVndmhrb2NodjRzc2EyNm4yNjQ1dWRvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D63HGAzG15LQrjBPRE/giphy.gif" width="150">
+<br>
 </div>
+<br>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -124,7 +127,18 @@ Me.Idol            Lionel Messi && Virat Kholi ───────────
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevapriyan10&theme=github_dark" width="100%"/>
 </div>
 <div align="center">
-
-![Space Shooter](https://raw.githubusercontent.com/jeevapriyan10/jeevapriyan10/main/space_shooter.gif)
+  
 ### ✦ Shoot the Commits ✦
+![Space Shooter](https://raw.githubusercontent.com/jeevapriyan10/jeevapriyan10/main/space_shooter.gif)
+
+</div>
+
+<div align="center">
+  
+  ### ✦ Contact Me ✦
+<img src="https://media.tenor.com/kkCZFnbKzLUAAAAM/enoxia-enoxia-esport.gif">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ft.jeevz_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeeva.mail10@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/jeevapriyan10)
 </div>
