@@ -37,7 +37,7 @@ jeevapriyan@dev: ~/my_readme (main ⚡)$ neofetch --personal
   Good sources: giphy.com, tenor.com, imgur.com
   Recommended size: width="320" looks best on GitHub
 -->
-<img width="517" height="866" alt="Denji%28Anime%29" src="https://github.com/user-attachments/assets/aabbeae6-00e1-4e4f-8cd1-e38ecbe967cb" height="100"/>
+<img width="600" height="608" alt="Levi" src="https://github.com/user-attachments/assets/0c3c5ac8-25d8-4a04-84bf-1fec06204bab" />
 </td>
 </tr>
 </table>
@@ -113,5 +113,18 @@ Me.Idol            Lionel Messi && Virat Kholi ───────────
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif" width="150">
+
+</div>
+
+<div align="center" width="100">
+
+### ✦ GitHub Stats ✦
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif" width="150"><br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevapriyan10&theme=github_dark" width="100%"/>
+</div>
+<div align="center">
+
+![Space Shooter](https://raw.githubusercontent.com/jeevapriyan10/jeevapriyan10/main/space_shooter.gif)
+### ✦ Shoot the Commits ✦
 </div>
