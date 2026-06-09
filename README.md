@@ -44,12 +44,12 @@ jeevapriyan@dev: ~/my_readme (main ⚡)$ neofetch --personal
   Good sources: giphy.com, tenor.com, imgur.com
   Recommended size: width="320" looks best on GitHub
 -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif" height="100%">
+<img src="assets/cid.png" height="100%">
 </td>
 </tr>
 </table>
-
 <!--
+```
 My Profile/ver. 1.0.0: "Still looking for the One Piece."
 ─────────────────────────────────────────────────────────────────────
 Name:              JEEVA PRIYAN R ───────────────────────────────────
@@ -72,4 +72,11 @@ Fav.Equation:      Murphy's Law - "Whatever can happen, will happen."
 Me.Zodiac          Capcricorn ♑︎ ─────────────────────────────────────
 Me.Height          5'7 ───────────────────────────────────────────────
 Me.Idol            Lionel Messi && Virat Kholi ───────────────────────
+```
 -->
+<div align="center">
+
+### ✦ My Stats ✦
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw1djVkYWZ4NnV5MW51bXlncjZtcWN6bnY1ZXV6ZTg4ZzM5OGtwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S27WNaiBtmy36quUmF/giphy.gif" width="150">
+</div>
+
