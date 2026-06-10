@@ -5,7 +5,7 @@
 <div align="center">
   
 ### ✦ About me - Technical ✦
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl1MnY3OHMzMHljYzZldDJ6bnk3ZzJ1aWVnNnp0eGFuOGFiNmM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQJ2DORvilpEk/giphy.gif" width="250"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl1MnY3OHMzMHljYzZldDJ6bnk3ZzJ1aWVnNnp0eGFuOGFiNmM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQJ2DORvilpEk/giphy.gif" width="150"/>
 </div>
 <div align="center">
 <img alt="jeevapriyan neofetch card" src="https://raw.githubusercontent.com/jeevapriyan10/jeevapriyan10/main/dark_mode.svg" width="100%" height="50%">
@@ -13,7 +13,7 @@
 <div align="center">
 
 ### ✦ About me - Physical ✦
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3YTN2am5udW9haWc2cWRqM2o4MnpmZjJ4aWVla3h3M2JzZG8wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="250"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDE3YTN2am5udW9haWc2cWRqM2o4MnpmZjJ4aWVla3h3M2JzZG8wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="150"/>
 </div>
 
 <table width="100%">
@@ -118,7 +118,29 @@ Me.Idol            Lionel Messi && Virat Kholi ───────────
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
 
 </div>
+<div align="center">
 
+### ✦ Projects ✦
+<img src="https://media.tenor.com/mN5OB0CX7X8AAAAM/homelander-the-boys.gif" width="150"/>
+</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/jeevapriyan10/archer"><img src = "assets/archer.gif"></a>
+    </td>
+    <td>
+      <a href="https://github.com/jeevapriyan10/GrandWarden"><img src = "assets/grandwarden.gif"></a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="https://github.com/jeevapriyan10/LedgerKnight"><img src = "assets/ledger-knight.gif"></a>
+    </td>
+    <td>
+      <a href="https://github.com/jeevapriyan10/valkyrie"><img src = "assets/valkyrie.gif"></a>
+    </td>
+  </tr>
+</table>
 <div align="center" width="100">
 
 ### ✦ GitHub Stats ✦
