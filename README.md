@@ -1,9 +1,11 @@
+<!--
 <div align="center">
   <img src="https://typograssy.deno.dev/api?scheme=dark&text=%3E%3E%20Wanna%20Cook%20Some%20Meth?%20&speed=75&comment=" width="100%"/>
 </div>
 <br>
 <div align="center">
-  
+
+  -->
 ### ✦ About me - Technical ✦
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl1MnY3OHMzMHljYzZldDJ6bnk3ZzJ1aWVnNnp0eGFuOGFiNmM5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQJ2DORvilpEk/giphy.gif" width="150"/>
 </div>
